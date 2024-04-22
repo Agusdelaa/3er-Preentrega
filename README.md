@@ -43,6 +43,10 @@ Editar Producto
 ELIMINACION Producto
 ![image](https://github.com/Agusdelaa/Reestructuraci-n/assets/129866349/fc346482-dc04-466b-8745-13b0f505823a)
 
+Ticket Cuando se finaliza la compra
+
+![image](https://github.com/Agusdelaa/3er-Preentrega/assets/129866349/54903537-0481-4b4a-afaa-dfe7722339b9)
+
 
 
 
