@@ -47,6 +47,12 @@ Ticket Cuando se finaliza la compra
 
 ![image](https://github.com/Agusdelaa/3er-Preentrega/assets/129866349/54903537-0481-4b4a-afaa-dfe7722339b9)
 
+Error Customizado
+![image](https://github.com/Agusdelaa/3er-Preentrega/assets/129866349/3c698ce0-c525-42c8-a827-4395bbda5625)
+
+Productos Mockeados
+![image](https://github.com/Agusdelaa/3er-Preentrega/assets/129866349/48c847a4-00a7-4b52-af1c-6d890a48e898)
+
 
 
 
